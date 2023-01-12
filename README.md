@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **even awesome robotics projects**
 
-- 💬 Ask me about **robotics, ROS, C++, Python, Matlab, Arduino, Raspberry Pi,control system, music (FL studio, piano)**
+- 💬 Ask me about **robotics, ROS, C/C++, Python, Matlab, Arduino, Raspberry Pi,control system, music (FL studio, piano)**
 
 - 📫 How to reach me **seiftinik@gmail.com**
 
