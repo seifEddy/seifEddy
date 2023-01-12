@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **several awesome robotics projects**
 
-- 🌱 I’m currently learning **Robot Operating System 2 (ROS2)**
-
 - 👯 I’m looking to collaborate on **even awesome robotics projects**
 
 - 💬 Ask me about **robotics, ROS, C++, Python, Matlab, Arduino, Raspberry Pi,control system, music (FL studio, piano)**
