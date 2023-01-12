@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif Eddine Seghiri</h1>
-<h3 align="center">A passionate robotics consultant from Algeria</h3>
+<h3 align="center">A passionate Robotics Consultant from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeddy&label=Profile%20views&color=0e75b6&style=flat" alt="seifeddy" /> </p>
 
@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **even awesome robotics projects**
 
-- 🤝 I’m looking for help with **any roboticist in the world**
-
-- 💬 Ask me about **ROBOTICS, ROS, C++, PYTHON, MATLAB, ARDUINO, RASPBERRY PI,CONTROL SYSTEM, MUSIC (FL STUDIO, PIANO)**
+- 💬 Ask me about **robotics, ROS, C++, Python, Matlab, Arduino, Raspberry Pi,control system, music (FL studio, piano)**
 
 - 📫 How to reach me **seiftinik@gmail.com**
 
