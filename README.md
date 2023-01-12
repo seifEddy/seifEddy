@@ -1,6 +1,6 @@
 <!-- ![A welcome picture.](https://github.com/seifEddy/seifEddy/blob/main/welcome.png)
 <p style="background-image: url('https://github.com/seifEddy/seifEddy/blob/main/welcome.png');"> -->
-<p align="center"> <img src="https://github.com/seifEddy/seifEddy/blob/main/welcome.png" alt="background" width="600"/> </p>
+<p align="center"> <img src="https://github.com/seifEddy/seifEddy/blob/main/welcome2.png" alt="background" width="600"/> </p>
 <h1 align="center">Hi 👋, I'm Seif Eddine Seghiri</h1>
 <h3 align="center">A Robotics Consultant | ROS C++/Python Expert from Algeria</h3>
 
