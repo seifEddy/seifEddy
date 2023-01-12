@@ -2,7 +2,7 @@
 <p style="background-image: url('https://github.com/seifEddy/seifEddy/blob/main/welcome.png');"> -->
 <p align="center"> <img src="https://github.com/seifEddy/seifEddy/blob/main/welcome2.png" alt="background" width="600"/> </p>
 <h1 align="center">Hi 👋, I'm Seif Eddine Seghiri</h1>
-<h3 align="center">A Robotics Consultant | ROS C++/Python Expert from Algeria</h3>
+<h3 align="center">A Robotics Consultant | ROS C/C++/Python Expert from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeddy&label=Profile%20views&color=0e75b6&style=flat" alt="seifeddy" /> </p>
 
