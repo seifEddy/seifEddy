@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1UL9E1p-0TCwpDfeMWwjahK5n3utd-Xxm/view?usp=sharing)
 
+- ⚡ Fun fact **I really don't know how to stop learning**
+
 - ⚡ Selected Projects <br>
     - Handled ROS (Robot Operating System) based project in the framework of autonomous navigation of mobile robots
 in dynamic environments (experimenting with Turtlebot2 mobile robot)<br>
@@ -37,8 +39,6 @@ framework of social autonomous navigation in mobile robotics<br>
     - Developed efficient real-time PID controller for IMU-based self-balancing robot<br>
     - Designed intelligent system for color-based objects selection<br>
     - Designed and engineered optimized power PCB for multiple DC motors using ISIS Proteus IDE<br>
-
-- ⚡ Fun fact **I really don't know how to stop learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
