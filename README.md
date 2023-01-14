@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I really don't know how to stop learning**
 
-- ⚡ Selected Projects <br>
+- 🧠 Selected Projects <br>
     - Handled ROS (Robot Operating System) based project in the framework of autonomous navigation of mobile robots
 in dynamic environments (experimenting with Turtlebot2 mobile robot)<br>
     - Investigated and experimented with different mobile robotics disciplines such as dynamic and/or kinematic
