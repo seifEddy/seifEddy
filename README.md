@@ -44,7 +44,7 @@ framework of social autonomous navigation in mobile robotics<br>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/seif-eddine-seghiri-42334113b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seif-eddine-seghiri-42334113b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/seifeddy25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/seifeddy25/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube.com/@mega_rosbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@mega_rosbot" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mega_rosbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/@mega_rosbot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
