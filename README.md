@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **seiftinik@gmail.com**
 
-- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1UL9E1p-0TCwpDfeMWwjahK5n3utd-Xxm/view?usp=sharing)
+- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1PhYo-sDoLbA1oUJ5oDGmlaNk6QXH5QTb/view?usp=sharing)
 
 - ⚡ Fun fact **I really don't know how to stop learning**
 
