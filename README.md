@@ -40,6 +40,12 @@ framework of social autonomous navigation in mobile robotics<br>
     - Designed intelligent system for color-based objects selection<br>
     - Designed and engineered optimized power PCB for multiple DC motors using ISIS Proteus IDE<br>
 
+<h3 align="left">Publications:</h3>
+<ul>
+  <li>Seghiri, S.E., Mansouri, N. & Chemori, A. "Socializing A* Algorithm for Crowd- and Socially Aware Navigation." <i>Arab J Sci Eng</i> (2024). <a href="https://doi.org/10.1007/s13369-024-09334-6">https://doi.org/10.1007/s13369-024-09334-6</a></li>
+  <li>S. E. Seghiri, N. Mansouri and A. Chemori, "Implementation of SARL* Algorithm for A Differential Drive Robot in a Gazebo Crowded Simulation Environment," 2022 2nd International Conference on Advanced Electrical Engineering (ICAEE), Constantine, Algeria, 2022, pp. 1-6, <a href="https://doi.org/10.1109/ICAEE53772.2022.9962010">https://doi.org/10.1109/ICAEE53772.2022.9962010</a></li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/seif-eddine-seghiri-42334113b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seif-eddine-seghiri-42334113b/" height="30" width="40" /></a>
