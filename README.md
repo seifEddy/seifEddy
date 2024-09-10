@@ -43,6 +43,7 @@ framework of social autonomous navigation in mobile robotics<br>
 <h3 align="left">Publications:</h3>
 <ul>
   <li>Seghiri, S.E., Mansouri, N. & Chemori, A. "Socializing A* Algorithm for Crowd- and Socially Aware Navigation." <i>Arab J Sci Eng</i> (2024). <a href="https://doi.org/10.1007/s13369-024-09334-6">https://doi.org/10.1007/s13369-024-09334-6</a></li>
+  <li>Seghiri, S.E., Mansouri, N. & Chemori, A. "A New Resampling Algorithm for Particle Filters and its Application in Global Localization within Symmetric Environments." <i>Transactions of the Institute of Measurement and Control</i> (2024). <a href="https://doi.org/10.1177/01423312241267042">https://doi.org/10.1177/01423312241267042</a></li>
   <li>S. E. Seghiri, N. Mansouri and A. Chemori, "Implementation of SARL* Algorithm for A Differential Drive Robot in a Gazebo Crowded Simulation Environment," 2022 2nd International Conference on Advanced Electrical Engineering (ICAEE), Constantine, Algeria, 2022, pp. 1-6, <a href="https://doi.org/10.1109/ICAEE53772.2022.9962010">https://doi.org/10.1109/ICAEE53772.2022.9962010</a></li>
 </ul>
 
